@@ -1,0 +1,30 @@
+p {
+  font-family: Arial;
+}
+
+.price-text {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 6px;
+}
+
+.currency-text {
+  font-size: 18px;
+  color: grey;
+}
+
+.today-text {
+  color: rgb(0, 128, 64);
+  margin-top: 0px;
+  margin-bottom: 6px;
+}
+
+.hours-text {
+  margin-top: 0px;
+  margin-bottom: 6px;
+  color: grey;
+}
+
+.red-text {
+  color: red;
+}

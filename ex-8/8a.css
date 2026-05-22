@@ -1,0 +1,6 @@
+.name-input,
+.email-input {
+  display:block;
+  border-radius: 3px;
+  height: 20px;
+}

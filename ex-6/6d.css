@@ -1,0 +1,20 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.model-text {
+   font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+.order-text {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 9px;
+}
+
+.deliver-text {
+  text-decoration:underline;
+}

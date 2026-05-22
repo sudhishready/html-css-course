@@ -1,0 +1,10 @@
+.customer-text {
+  width: 210px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.yes-button,
+.no-button {
+ vertical-align: middle;
+}
